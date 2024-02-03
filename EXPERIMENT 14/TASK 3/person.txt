@@ -1,0 +1,2 @@
+NAME		AGE		HEIGHT
+mujeeb		19		5.7
